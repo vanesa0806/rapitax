@@ -10,7 +10,7 @@
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <!--// bootstrap-css -->
 <!-- css -->
-<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
+<link rel="stylesheet" href="css/style1.css" type="text/css" media="all" />
 <!--// css -->
 <!-- font-awesome icons -->
 <link href="css/font-awesome.css" rel="stylesheet">
@@ -71,7 +71,6 @@
 									<li><a href="#about" class="scroll">Nosotros</a></li>
 									<li><a href="#welcome" class="scroll">Servicios</a></li>
 									<li><a href="#contact" class="scroll">Contactanos</a></li>
-									<li><a href="./formLogin.html" class="nav-link">Acceso</a></li>
 								</ul>
 								<div class="clearfix"> </div>
 							</div>
